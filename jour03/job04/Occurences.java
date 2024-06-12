@@ -2,7 +2,7 @@ package job04;
 
 public class Occurences {
     public static void main(String args[]) {
-        int monTableau[] = new int[5];
+        int[] monTableau = new int[5];
         monTableau[0] = 3;
         monTableau[1] = 7;
         monTableau[2] = 3;
